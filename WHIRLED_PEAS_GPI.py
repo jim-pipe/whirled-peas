@@ -29,17 +29,6 @@
 # No pressure on the reviewers to accept it, though.
 ######################################################
 
-######################################################
-# If by chance you plan to use this in any kind of product that you sell:
-# 1.  Thanks for the compliment!!!
-# 2.  Please encourage me and others to continue to provide open-source software by
-#     *at least* citing my abstracts or papers when referring to your product spiral sequence;
-#     don't let your marketing department pretend like this was only in-house development.
-#     I would really appreciate that.
-#     A little funding thrown my way would be icing on that cake. :-)
-######################################################
-
-
 import gpi
 
 class ExternalNode(gpi.NodeAPI):
