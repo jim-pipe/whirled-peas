@@ -9,7 +9,7 @@
 #
 
 # Author: Jim Pipe
-# Date: 2022Nov
+# Date: 2022Dec
 
 ######################################################
 # GPI node to generate WHIRL spiral waveforms
@@ -24,9 +24,6 @@
 #     You will just have to convert the calls that get and pass data
 #     This is mostly any line containing the phrase self.xxx
 #
-# I plan to submit an MRM paper soon, and if accepted I will update this code
-# with references to the relevant equations
-# No pressure on the reviewers to accept it, though.
 ######################################################
 
 import gpi
